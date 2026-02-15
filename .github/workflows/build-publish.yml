@@ -1,4 +1,4 @@
-name: Build and Publish Distroless bedops
+name: Build and Publish bedops
 
 on:
   push:

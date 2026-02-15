@@ -1,5 +1,5 @@
 # bedops
-Small, distroless-when-possible container for `bedops`.
+Small compatibility-focused container for `bedops`.
 
 ## how to use
 ```bash
